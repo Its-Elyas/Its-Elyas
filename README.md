@@ -202,13 +202,6 @@ I'm particularly interested in:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://stats.your-domain.com/api?username=its-elyas&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Elyas's GitHub Stats"
-  />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-elyas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
